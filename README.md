@@ -11,3 +11,8 @@ python3 compare_segment_list_and_download.py download_urls.txt fill_segment_list
 
 # read_all_files.py - search for the specified binary sequence in all binary files within the specified directory
 python3 read_all_files.py "/home/myusername/test" "hello"
+
+
+# download_segments.py - download file from urls in file.txt
+python3 download_segments.py downloadr_segments.py file.txt
+
